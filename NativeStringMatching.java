@@ -1,3 +1,5 @@
+/*Author: Akash Vartak*/
+
 import java.io.*;
 public class NativeStringMatching
 {
