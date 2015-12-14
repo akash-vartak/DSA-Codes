@@ -7,6 +7,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <ol>
 <li>Native String Matching Algorithm</li>
 <li>Binary Search Tree</li>
+<li>Singly Linked List</li>
 </ol>
 
 #Review
