@@ -6,6 +6,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <br>
 <ol>
 <li>Native String Matching Algorithm</li>
+<li>Binary Search Tree</li>
 </ol>
 
 #Review
