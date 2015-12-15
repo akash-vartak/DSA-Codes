@@ -8,6 +8,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <li>Native String Matching Algorithm</li>
 <li>Binary Search Tree</li>
 <li>Singly Linked List</li>
+<li>Rabin Karp String Matching Algorithm</li>
 </ol>
 
 #Review
