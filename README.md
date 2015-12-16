@@ -10,6 +10,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <li>Singly Linked List</li>
 <li>Rabin Karp String Matching Algorithm</li>
 <li>Algorith for Graph as Adjacency Matrix</li>
+<li>Sieve of Eratosthenes</li>
 </ol>
 
 #Review
