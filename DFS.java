@@ -1,4 +1,4 @@
-/* Depth First Search
+/* Depth First Search using Stack
 Author: Akash Vartak
  */
 
