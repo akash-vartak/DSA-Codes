@@ -12,6 +12,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <li>Sieve of Eratosthenes</li>
 <li>Algorith for Graph as Adjacency List</li>
 <li>Depth First Search Algorithm using Stack</li>
+<li>Breadth First Search Algorithm using Queue</li>
 </ol>
 
 <br>
