@@ -14,7 +14,7 @@ The list of algorithms shall be regularly updated for quick viewing
 <li>Depth First Search Algorithm using Stack</li>
 <li>Breadth First Search Algorithm using Queue</li>
 <li>Binary Search - Interatively</li>
-<li>Knuth Morris Pratt String Matching Algorithm *(help needed)*</li>
+<li>Knuth Morris Pratt String Matching Algorithm <i>(help needed)</i></li>
 </ol>
 
 <br>
